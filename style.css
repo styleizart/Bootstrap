@@ -1,0 +1,217 @@
+.top{
+	background-image: url(images/startup-0.svg) , url(images/startup-1.jpg);
+	background-size: 100%;
+	height: 100vh;
+}
+
+.navbar-default .navbar-brand {
+    color: #28669f;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    background: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.navbar-default {
+	background: transparent;
+	border: none;
+	box-sizing: border-box;
+	padding: 35px 10px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    font-size: 15px;
+}
+
+.jumbotron{
+	background: transparent;
+	padding-top: 100px;
+}
+
+.top2{
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron h1{
+	font-size: 40px;
+	color: white;
+}
+
+.jumbotron p{
+	color: #bed2e1;
+}
+
+.jumbotron a{
+	background: #2595ff;
+	border: none;
+	padding: 10px 30px;
+}
+
+.mid1{
+	padding-top: 50px;
+}
+
+.news2{
+	padding-top: 60px;
+	box-sizing: border-box;
+	vertical-align: center;
+}
+
+.mid2{
+	background: #262f36;
+	height: 70vh;
+}
+
+.mid2 h5{
+	color: white;
+}
+
+.mid2 h3{
+	color: white;
+}
+
+.mid2 p{
+	font-size: 16px;
+}
+
+.mid2 a{
+	color: #4a6074;
+	background: white;
+	border: none;
+}
+
+.code{
+	color: white;
+	/*padding-top: 80px;*/
+	margin-top: 80px;
+	border: 1px solid #495158;
+	border-radius: 6px;
+	border-right: none;
+}
+
+.mid3{
+	background-image: url(images/startup-3.jpg);
+	background-size: 100%;
+	height: 100vh;
+}
+
+.text1 h5{
+	color: #d6dbdc;
+}
+
+.text1 h1{
+	color: white;
+}
+
+.text1 h6{
+	color: #aabfbd;
+}
+
+.logo{
+	background: #2595ff;
+
+}
+
+.img img{
+	padding: 30px 15px;
+	text-align: center;
+}
+
+.img{
+	padding-top: 15px;
+}
+
+.first{
+	text-align: center;
+	padding-top: 60px;
+}
+
+.work-section{
+	padding-top: 50px;
+	height: 120vh;
+}
+
+.main{
+	text-align: center;
+	padding: 0 80px;
+	padding-top: 50px;
+}
+
+.main img{
+	width: 100%;
+}
+
+.text2-section{
+	background: #f4f5f6;
+}
+
+.text2 h5{
+	color: #d6dbdc;
+}
+
+.text2 h1{
+	color: white;
+}
+
+.text2 h6{
+	color: #aabfbd;
+}
+
+.bussiness2{
+	background: #f4f5f6;
+}
+
+.main2{
+	text-align: center;
+	padding: 60px 80px 0 80px;
+}
+
+.main2 img{
+	vertical-align: middle;
+}
+
+.img-responsive{
+	display: inline-block;
+}
+
+.main3{
+	box-sizing: border-box;
+	padding: 0 80px;
+	height: 50vh;
+}
+
+.money-section{
+	background: #f4f5f6;
+}
+
+.money1 a{
+	width: 100%;
+	background:#2595ff;
+	border: none;
+}
+
+.footer-section{
+	background: #262f36;
+	height: 40vh;
+}
+
+.main4{
+	padding-top: 50px; 
+}
+
+.main4 h5{
+	color: white;
+}
+
+.main4 p{
+	color: white;
+}
